@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.xlsx
+*.env
+.DS_Store
+Fasion_data/
+titanic_data/
